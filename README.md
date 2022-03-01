@@ -1,4 +1,4 @@
-# flutter_driver_test
+# flutter_auto_test_demo
 
 A new Flutter project.
 

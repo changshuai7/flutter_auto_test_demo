@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_driver_test">
+    package="com.example.flutter_auto_test_demo">
    <application
-        android:label="flutter_driver_test"
+        android:label="flutter_auto_test_demo"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

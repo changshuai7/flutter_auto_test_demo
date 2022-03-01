@@ -1,6 +1,6 @@
 {
-    "name": "flutter_driver_test",
-    "short_name": "flutter_driver_test",
+    "name": "flutter_auto_test_demo",
+    "short_name": "flutter_auto_test_demo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
