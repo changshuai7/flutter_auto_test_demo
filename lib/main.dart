@@ -1,8 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_driver/driver_extension.dart';
 
-
-//https://www.cnblogs.com/fnng/p/13664254.html
+/// 本Demo用于测试FlutterDriver实现UI自动化
+/// 具体操作流程为：
+/// 1、打开Terminal控制台
+/// 2、输入命令：flutter drive --target=./test_driver/app.dart
+/// 3、则Flutter项目会自动启动，并完成相关UI自动化操作
+///
 void main() {
   // 启用扩展
   runApp(const MyApp());
@@ -56,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Text(
               '$_counter',
               key: const Key('counter'),
-              style:const TextStyle(fontSize: 80),
+              style: const TextStyle(fontSize: 80),
             ),
           ],
         ),
